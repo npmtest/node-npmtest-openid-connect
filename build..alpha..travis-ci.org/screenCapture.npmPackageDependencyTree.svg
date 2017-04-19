@@ -1,0 +1,104 @@
+<svg height="1614" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1614" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">20 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ openid-connect@1.2.4 </tspan>
+<tspan x="10" y="90">  ├─┬ base64url@1.0.6 </tspan>
+<tspan x="10" y="106">  │ ├─┬ concat-stream@1.4.10 </tspan>
+<tspan x="10" y="122">  │ │ ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="138">  │ │ ├─┬ readable-stream@1.1.14 </tspan>
+<tspan x="10" y="154">  │ │ │ ├── core-util-is@1.0.2 </tspan>
+<tspan x="10" y="170">  │ │ │ ├── isarray@0.0.1 </tspan>
+<tspan x="10" y="186">  │ │ │ └── string_decoder@0.10.31 </tspan>
+<tspan x="10" y="202">  │ │ └── typedarray@0.0.6 </tspan>
+<tspan x="10" y="218">  │ └─┬ meow@2.0.0 </tspan>
+<tspan x="10" y="234">  │   ├─┬ camelcase-keys@1.0.0 </tspan>
+<tspan x="10" y="250">  │   │ ├── camelcase@1.2.1 </tspan>
+<tspan x="10" y="266">  │   │ └── map-obj@1.0.1 </tspan>
+<tspan x="10" y="282">  │   ├─┬ indent-string@1.2.2 </tspan>
+<tspan x="10" y="298">  │   │ ├── get-stdin@4.0.1 </tspan>
+<tspan x="10" y="314">  │   │ └─┬ repeating@1.1.3 </tspan>
+<tspan x="10" y="330">  │   │   └─┬ is-finite@1.0.2 </tspan>
+<tspan x="10" y="346">  │   │     └── number-is-nan@1.0.1 </tspan>
+<tspan x="10" y="362">  │   ├── minimist@1.2.0 </tspan>
+<tspan x="10" y="378">  │   └── object-assign@1.0.0 </tspan>
+<tspan x="10" y="394">  ├── clean-obj@0.1.2 </tspan>
+<tspan x="10" y="410">  ├── extend@3.0.0 </tspan>
+<tspan x="10" y="426">  ├── jwt-simple@0.3.1 </tspan>
+<tspan x="10" y="442">  ├── lodash@3.10.1 </tspan>
+<tspan x="10" y="458">  ├─┬ modelling@0.0.3 </tspan>
+<tspan x="10" y="474">  │ └─┬ waterline@0.10.31 </tspan>
+<tspan x="10" y="490">  │   ├─┬ anchor@0.11.5 </tspan>
+<tspan x="10" y="506">  │   │ ├─┬ @mapbox/geojsonhint@1.2.1 </tspan>
+<tspan x="10" y="522">  │   │ │ ├─┬ chalk@1.1.3 </tspan>
+<tspan x="10" y="538">  │   │ │ │ ├── ansi-styles@2.2.1 </tspan>
+<tspan x="10" y="554">  │   │ │ │ ├── escape-string-regexp@1.0.5 </tspan>
+<tspan x="10" y="570">  │   │ │ │ ├─┬ has-ansi@2.0.0 </tspan>
+<tspan x="10" y="586">  │   │ │ │ │ └── ansi-regex@2.1.1 </tspan>
+<tspan x="10" y="602">  │   │ │ │ ├── strip-ansi@3.0.1 </tspan>
+<tspan x="10" y="618">  │   │ │ │ └── supports-color@2.0.0 </tspan>
+<tspan x="10" y="634">  │   │ │ ├─┬ jsonlint-lines@1.7.1 </tspan>
+<tspan x="10" y="650">  │   │ │ │ ├── JSV@4.0.2 </tspan>
+<tspan x="10" y="666">  │   │ │ │ └─┬ nomnom@1.8.1 </tspan>
+<tspan x="10" y="682">  │   │ │ │   ├─┬ chalk@0.4.0 </tspan>
+<tspan x="10" y="698">  │   │ │ │   │ ├── ansi-styles@1.0.0 </tspan>
+<tspan x="10" y="714">  │   │ │ │   │ ├── has-color@0.1.7 </tspan>
+<tspan x="10" y="730">  │   │ │ │   │ └── strip-ansi@0.1.1 </tspan>
+<tspan x="10" y="746">  │   │ │ │   └── underscore@1.6.0 </tspan>
+<tspan x="10" y="762">  │   │ │ ├── minimist@1.1.1 </tspan>
+<tspan x="10" y="778">  │   │ │ └── text-table@0.2.0 </tspan>
+<tspan x="10" y="794">  │   │ ├── @sailshq/lodash@3.10.2 </tspan>
+<tspan x="10" y="810">  │   │ └── validator@4.4.0 </tspan>
+<tspan x="10" y="826">  │   ├── bluebird@2.9.34 </tspan>
+<tspan x="10" y="842">  │   ├── deep-diff@0.3.4 </tspan>
+<tspan x="10" y="858">  │   ├── lodash@3.9.3 </tspan>
+<tspan x="10" y="874">  │   ├─┬ prompt@0.2.14 </tspan>
+<tspan x="10" y="890">  │   │ ├── pkginfo@0.4.0 </tspan>
+<tspan x="10" y="906">  │   │ ├─┬ read@1.0.7 </tspan>
+<tspan x="10" y="922">  │   │ │ └── mute-stream@0.0.7 </tspan>
+<tspan x="10" y="938">  │   │ ├── revalidator@0.1.8 </tspan>
+<tspan x="10" y="954">  │   │ ├─┬ utile@0.2.1 </tspan>
+<tspan x="10" y="970">  │   │ │ ├── async@0.2.10 </tspan>
+<tspan x="10" y="986">  │   │ │ ├── deep-equal@1.0.1 </tspan>
+<tspan x="10" y="1002">  │   │ │ ├── i@0.3.5 </tspan>
+<tspan x="10" y="1018">  │   │ │ ├─┬ mkdirp@0.5.1 </tspan>
+<tspan x="10" y="1034">  │   │ │ │ └── minimist@0.0.8 </tspan>
+<tspan x="10" y="1050">  │   │ │ ├── ncp@0.4.2 </tspan>
+<tspan x="10" y="1066">  │   │ │ └─┬ rimraf@2.6.1 </tspan>
+<tspan x="10" y="1082">  │   │ │   └─┬ glob@7.1.1 </tspan>
+<tspan x="10" y="1098">  │   │ │     ├── fs.realpath@1.0.0 </tspan>
+<tspan x="10" y="1114">  │   │ │     ├─┬ inflight@1.0.6 </tspan>
+<tspan x="10" y="1130">  │   │ │     │ └── wrappy@1.0.2 </tspan>
+<tspan x="10" y="1146">  │   │ │     ├─┬ minimatch@3.0.3 </tspan>
+<tspan x="10" y="1162">  │   │ │     │ └─┬ brace-expansion@1.1.7 </tspan>
+<tspan x="10" y="1178">  │   │ │     │   ├── balanced-match@0.4.2 </tspan>
+<tspan x="10" y="1194">  │   │ │     │   └── concat-map@0.0.1 </tspan>
+<tspan x="10" y="1210">  │   │ │     ├── once@1.4.0 </tspan>
+<tspan x="10" y="1226">  │   │ │     └── path-is-absolute@1.0.1 </tspan>
+<tspan x="10" y="1242">  │   │ └─┬ winston@0.8.3 </tspan>
+<tspan x="10" y="1258">  │   │   ├── async@0.2.10 </tspan>
+<tspan x="10" y="1274">  │   │   ├── colors@0.6.2 </tspan>
+<tspan x="10" y="1290">  │   │   ├── cycle@1.0.3 </tspan>
+<tspan x="10" y="1306">  │   │   ├── eyes@0.1.8 </tspan>
+<tspan x="10" y="1322">  │   │   ├── isstream@0.1.2 </tspan>
+<tspan x="10" y="1338">  │   │   ├── pkginfo@0.3.1 </tspan>
+<tspan x="10" y="1354">  │   │   └── stack-trace@0.0.9 </tspan>
+<tspan x="10" y="1370">  │   ├── switchback@2.0.2 </tspan>
+<tspan x="10" y="1386">  │   └── waterline-schema@0.1.20 </tspan>
+<tspan x="10" y="1402">  ├── q@1.5.0 </tspan>
+<tspan x="10" y="1418">  └─┬ sails-redis@0.10.7 </tspan>
+<tspan x="10" y="1434">    ├── async@1.2.1 </tspan>
+<tspan x="10" y="1450">    ├─┬ hiredis@0.4.1 </tspan>
+<tspan x="10" y="1466">    │ ├── bindings@1.2.1 </tspan>
+<tspan x="10" y="1482">    │ └── nan@2.6.2 </tspan>
+<tspan x="10" y="1498">    ├── lodash@3.9.3 </tspan>
+<tspan x="10" y="1514">    ├── redis@0.12.1 </tspan>
+<tspan x="10" y="1530">    ├─┬ waterline-criteria@0.11.2 </tspan>
+<tspan x="10" y="1546">    │ └── lodash@2.4.2 </tspan>
+<tspan x="10" y="1562">    ├─┬ waterline-cursor@0.0.7 </tspan>
+<tspan x="10" y="1578">    │ └── async@1.5.2 </tspan>
+<tspan x="10" y="1594">    └── waterline-errors@0.10.1</tspan>
+</text>
+</svg>
